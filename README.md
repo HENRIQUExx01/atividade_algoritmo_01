@@ -9,14 +9,14 @@ Ajude ela criando um algoritmo em C++ que receba um número e que questione ao u
 <br />
 <br />
 <br />
-Davidson Dorvil RA 21142469-2
+Davidson Dorvil RA: 21142469-2
 <br />
-Henrique Nogueira Demetrio RA 21161095-2
+Henrique Nogueira Demetrio RA: 21161095-2
 <br />
-Leonardo Padilha Fontana RA 21139501-2
+Leonardo Padilha Fontana RA: 21139501-2
 <br />
-Luisa Prantl RA 21169594-2
+Luisa Prantl RA: 21169594-2
 <br />
-Vitoria Amara Krinski RA 
+Vitoria Amara Krinski RA:
 
 
