@@ -17,6 +17,6 @@ Leonardo Padilha Fontana RA: 21139501-2
 <br />
 Luisa Prantl RA: 21169594-2
 <br />
-Vitoria Amara Krinski RA:
+
 
 
